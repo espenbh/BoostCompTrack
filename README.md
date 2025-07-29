@@ -1,7 +1,9 @@
 # BoostCompTrack: A multi-purpose tracking framework for salmon welfare monitoring in challenging environments
 
 **Last updated:** July 29, 2025  
+
 **Authors:** Espen Uri Høgstedt, Christian Schellewald, Annette Stahl, Rudolf Mester
+
 **Repository:** BoostCompTrack
 
 ## 🐟 Overview
