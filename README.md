@@ -55,4 +55,4 @@ For questions or collaborations, feel free to reach out via email.
 
 ---
 
-**BoostCompTrack** is developed to support the aquaculture industry in achieving **continuous, automated, and precise** salmon welfare monitoring.
+**BoostCompTrack** is developed as part of the cAIge project, funded by the Research Council of Norway, to support the aquaculture industry in achieving **continuous, automated, and precise** salmon welfare monitoring.
